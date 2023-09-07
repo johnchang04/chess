@@ -83,5 +83,4 @@
         black moved knight from g8 to f6
         >>> white.move('h5','f7')
         white moved queen from h5 to f7
-        checkmate
-        """
+        checkmate"""
